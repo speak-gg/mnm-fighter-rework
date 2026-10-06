@@ -4,7 +4,7 @@
 
 **[Read the design doc (PDF)](docs/mnm-fighter-rework.pdf)** · [Word version (download)](docs/mnm-fighter-rework.docx)
 
-A design sample written in June 2026 during the beta of [Monsters and Memories](https://monstersandmemories.com/), a classic-style fantasy MMO, and shared with the game's community, where it was well received. It's an independent fan proposal, not affiliated with or endorsed by the game's developers.
+A design sample written in June 2026 during the beta of [Monsters and Memories](https://monstersandmemories.com/), a classic-style fantasy MMO with deep inspirations drawing from Everquest and early World of Warcraft, and shared with the game's community, where it was well received. It's an independent fan proposal, not affiliated with or endorsed by the game's developers.
 
 ## The problem
 
