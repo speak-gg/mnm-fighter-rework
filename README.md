@@ -59,7 +59,7 @@ A few months later (August 2026) the developers published their own Fighter rewo
 | Stances | Offensive and Defensive, plus a third, Berserker Stance | Offensive and Defensive, plus a third, Tactician Stance |
 | Damage while tanking | Riposte, plus Rend stacks cashed in by Berserker Stance | Retaliation abilities fueled by Vengeance stacks gained from taking damage |
 | Rend | Gains cooldown resets from Frenzy and Shield Bash in Berserker Stance | Gains cooldown resets |
-| Berserker stance dispels CC when entered | Tactician stance increases resistance to CC effects |
+| Berserker stance dispels CC effects when entered | Tactician stance increases resistance to CC effects |
 
 The official version leans on new abilities and a damage-taken resource rather than changing what existing abilities do in each stance.
 
